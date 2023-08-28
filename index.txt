@@ -1,8 +1,8 @@
 1:HL["https://lwygold.github.io/cross/_next/static/css/d2b5f8bc515c16e0.css",{"as":"style"}]
-0:["gYNsJWLujWz5DUB9_bfsM",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"https://lwygold.github.io/cross/_next/static/css/d2b5f8bc515c16e0.css","precedence":"next"}]],"$L3"]]]]
+0:["oh2vQEPbAXl6pHzzDShUB",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"https://lwygold.github.io/cross/_next/static/css/d2b5f8bc515c16e0.css","precedence":"next"}]],"$L3"]]]]
 4:HL["https://lwygold.github.io/cross/_next/static/css/4823b6965ebebc49.css",{"as":"style"}]
-5:I{"id":7767,"chunks":["272:static/chunks/webpack-b49d15f48285f6fa.js","971:static/chunks/fd9d1056-4691c648476250ad.js","596:static/chunks/596-73aa30ba9e75adf2.js"],"name":"default","async":false}
-6:I{"id":7920,"chunks":["272:static/chunks/webpack-b49d15f48285f6fa.js","971:static/chunks/fd9d1056-4691c648476250ad.js","596:static/chunks/596-73aa30ba9e75adf2.js"],"name":"default","async":false}
+5:I{"id":7767,"chunks":["272:static/chunks/webpack-71ef6a24c0f6de62.js","971:static/chunks/fd9d1056-4691c648476250ad.js","596:static/chunks/596-73aa30ba9e75adf2.js"],"name":"default","async":false}
+6:I{"id":7920,"chunks":["272:static/chunks/webpack-71ef6a24c0f6de62.js","971:static/chunks/fd9d1056-4691c648476250ad.js","596:static/chunks/596-73aa30ba9e75adf2.js"],"name":"default","async":false}
 8:I{"id":8160,"chunks":["569:static/chunks/569-f6f016bcb1d49f6f.js","446:static/chunks/446-103756096bab553a.js","931:static/chunks/app/page-a578edd8f2df258f.js"],"name":"","async":false}
 9:I{"id":3222,"chunks":["569:static/chunks/569-f6f016bcb1d49f6f.js","446:static/chunks/446-103756096bab553a.js","931:static/chunks/app/page-a578edd8f2df258f.js"],"name":"Image","async":false}
 a:I{"id":6685,"chunks":["569:static/chunks/569-f6f016bcb1d49f6f.js","446:static/chunks/446-103756096bab553a.js","931:static/chunks/app/page-a578edd8f2df258f.js"],"name":"","async":false}
