@@ -1,9 +1,9 @@
 1:HL["/{lwygold.github.io/cross/}/_next/static/css/1d08f12d528bb74b.css",{"as":"style"}]
-0:["DX6nkjpmBGLok461pY2EO",[[["",{"children":["invest1",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/{lwygold.github.io/cross/}/_next/static/css/1d08f12d528bb74b.css","precedence":"next"}]],"$L3"]]]]
+0:["2mdI80nZj6LZN9eEnjT4E",[[["",{"children":["invest1",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/{lwygold.github.io/cross/}/_next/static/css/1d08f12d528bb74b.css","precedence":"next"}]],"$L3"]]]]
 4:HL["/{lwygold.github.io/cross/}/_next/static/css/cf34a30960c2573e.css",{"as":"style"}]
 5:HL["/{lwygold.github.io/cross/}/_next/static/css/d98c87eeb83afde5.css",{"as":"style"}]
-6:I{"id":7767,"chunks":["272:static/chunks/webpack-139c987d9d6aa377.js","971:static/chunks/fd9d1056-4691c648476250ad.js","596:static/chunks/596-9385d5f8e8fb8087.js"],"name":"default","async":false}
-7:I{"id":7920,"chunks":["272:static/chunks/webpack-139c987d9d6aa377.js","971:static/chunks/fd9d1056-4691c648476250ad.js","596:static/chunks/596-9385d5f8e8fb8087.js"],"name":"default","async":false}
+6:I{"id":7767,"chunks":["272:static/chunks/webpack-e0bdc9c45583c614.js","971:static/chunks/fd9d1056-4691c648476250ad.js","596:static/chunks/596-9385d5f8e8fb8087.js"],"name":"default","async":false}
+7:I{"id":7920,"chunks":["272:static/chunks/webpack-e0bdc9c45583c614.js","971:static/chunks/fd9d1056-4691c648476250ad.js","596:static/chunks/596-9385d5f8e8fb8087.js"],"name":"default","async":false}
 9:I{"id":8160,"chunks":["569:static/chunks/569-6f07cb70f715ae11.js","198:static/chunks/app/invest1/page-1f93037c8be31884.js"],"name":"","async":false}
 a:I{"id":6685,"chunks":["569:static/chunks/569-6f07cb70f715ae11.js","198:static/chunks/app/invest1/page-1f93037c8be31884.js"],"name":"","async":false}
 b:I{"id":4966,"chunks":["569:static/chunks/569-6f07cb70f715ae11.js","198:static/chunks/app/invest1/page-1f93037c8be31884.js"],"name":"","async":false}
